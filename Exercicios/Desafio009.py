@@ -25,11 +25,22 @@ print('A Tabuada 8 de {} é {}'. format(m, eight))
 print('A Tabuada 9 de {} é {}'. format(m, nine))
 print('A Tabuada 10 de {} é {}'. format(m, ten))
 print('=' * 20)
+print('{} X 1  = {}'.format(m, one))
+print('{} X 2  = {}'.format(m, two))
+print('{} X 3  = {}'.format(m, three))
+print('{} X 4  = {}'.format(m, four))
+print('{} X 5  = {}'.format(m, five))
+print('{} X 6  = {}'.format(m, six))
+print('{} X 7  = {}'.format(m, seven))
+print('{} X 8  = {}'.format(m, eight))
+print('{} X 9  = {}'.format(m, nine))
+print('{} X 10 = {}'.format(m, ten))
+print('='*20)
 
 
-
-# Formula 2 Simplificada
+# Formula 2 Simplificada usando laço de repetição
 n = int(input('Digite um numero: '))
 for i in range(0, 11):
     i = i * n
     print('A tabuada de {} é {}'.format(n, i))
+    print('{} X {} = {}'.format(n, n, i))
