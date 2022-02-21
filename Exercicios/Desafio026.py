@@ -5,13 +5,13 @@ Crie um programa que leia uma frase pelo teclado e mostre:
 3. Em que posição ela aparece a ultima vez
 """
 
-frase = input('Digite qualquer frase: ')
+frase = str(input('Digite qualquer frase: ')).strip()
 
 # Quantas vezes a letra aparece na frase
-print('A letra A aparece {} vezes na frase.'.format(frase.count('a')))
+print('A letra A aparece {} vezes na frase.'.format(frase.lower().count('a')))
 
 # Posição que ela aparece a primeira vez
-print('indice {}'.format(frase.find('a')))
+print('Letra A aparece primeiro no indice {}'.format(frase.lower().find('a')))
 
 # posição que ela aparece a ultima vez
-print('Indice {}'.format(frase.rfind('a')))
+print('Letra A aparece pela ultima vez no Indice {}'.format(frase.lower().rfind('a')))
