@@ -5,3 +5,20 @@ pelo computador.
 
 O programa deverá escrever na tela se o usuario venceu ou perdeu
 """
+
+from random import randint
+from time import sleep
+
+rand = randint(0, 5)
+print('-==-' * 20)
+print('Pensei em um número...')
+print('-==-' * 20)
+
+choose = int(input('Me diga em qual numero eu pensei: '))
+print('PROCESSANDO')
+sleep(1.5)
+
+if choose == rand:
+    print('Parabéns!! Você acertou')
+else:
+    print('Você errou!! O numero que pensei foi {}'.format(rand))
