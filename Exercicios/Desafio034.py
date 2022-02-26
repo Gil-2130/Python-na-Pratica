@@ -14,3 +14,10 @@ if salario <= 1250:
 else:
     print('OK, seu atual salario de R${} sofrerá reajuste de 10%\n'.format(salario),
           'Seu novo salário será de R${}'.format(salario + (salario * 0.10)))
+    
+    # OU
+if salario <= 1250:
+    novo = salario + (salario * 15 / 100)  # mesma coisa que salario * 0.15
+else:
+    novo = salario + (salario * 10 / 100)
+print('Seu salário antigo era R${} , seu novo salário é R${}'.format(salario, novo))
