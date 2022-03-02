@@ -16,6 +16,9 @@ atual = date.today().year
 # Obtendo o ano de nascimento
 nasc = int(input('Digite o seu ano de nascimento? '))
 
+# Obtendo o sexo da pessoa
+sexo = str(input('Qual o seu sexo? ').lower())
+
 # Calculando a idade
 idade = atual - nasc
 
@@ -23,10 +26,17 @@ idade = atual - nasc
 alist = 18
 
 # Condicional para alistamento
-if idade < 18:
+if sexo == 'f':
+    print('Mulher, você não é obrigada a se alistar!')
+elif sexo == 'm':
+    print('Homens são obrigados a se alistar!')
+elif idade < 18:
     print('Faltam {} anos para se alistar no serviço militar.'.format(alist - idade))
+    saldo = 18 - idade
+    print('Seu alistamento será em {}'.format(atual + saldo))
 elif idade == 18:
     print('É hora de se alistar!')
 elif idade > 18:
     print('Você já passou {} anos da data limite de alistamento!'.format(idade - alist))
 print('Bem vindo ao serviço militar!')
+
