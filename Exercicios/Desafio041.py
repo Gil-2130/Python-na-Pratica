@@ -9,14 +9,39 @@ ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
  - Acima de 20 anos: MASTER
 """
 
-idade = int(input('Qual é a sua idade? '))
+# Importando módulo para trrabalhar com datas
+from datetime import date
+
+# obtendo a data atual
+atual = date.today().year
+
+# obtendo ano de nascimento
+ano_nasc = int(input('Ano de Nascimento: '))
+
+# obtendo a idade
+idade = atual - ano_nasc
+
+# Condicional para categorização MIRIM
 if idade <= 9:
-    print('MIRIM é a sua categoria.')
-elif idade > 9  and idade <= 14:
-    print('INFANTIL é a sua categoria.')
+    print('Você nasceu em {} e tem {} anos de idade.\n'
+          'Sua categoria é MIRIM.'.format(ano_nasc, idade))
+
+# Condicional para categorização INFANTIL
+elif idade > 9 and idade <= 14:
+    print('Você nasceu em {} e tem {} anos de idade.\n'
+          'Sua categoria é INFANTIL.'.format(ano_nasc, idade))
+
+# Condicional para categorização JÚNIOR
 elif idade > 14 and idade <= 19:
-    print('JUNIOR é a sua categoria')
+    print('Voçê nasceu em {} e tem {} anos de de idade.\n'
+          'Sua categoria é JÚNIOR.'.format(ano_nasc, idade))
+
+# Condicional para categorização SÊNIOR
 elif idade == 20:
-    print('SÊNIOR é a sua categoria.')
+    print('Você nasceu em {}  e tem {} anos de idade.\n'
+          'Sua categoria é SÊNIOR.'.format(ano_nasc, idade))
+
+# Condicional para categorização MASTER
 elif idade > 20:
-    print('MASTER é a sua categoria.')
+    print('Você nasceu em {} e tem {} anos de idade.\n'
+          'Sua categoria é MASTER'.format(ano_nasc, idade))
