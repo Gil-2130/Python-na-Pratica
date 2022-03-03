@@ -27,17 +27,17 @@ if idade <= 9:
           'Sua categoria é MIRIM.'.format(ano_nasc, idade))
 
 # Condicional para categorização INFANTIL
-elif idade > 9 and idade <= 14:
+elif idade <= 14:
     print('Você nasceu em {} e tem {} anos de idade.\n'
           'Sua categoria é INFANTIL.'.format(ano_nasc, idade))
 
 # Condicional para categorização JÚNIOR
-elif idade > 14 and idade <= 19:
+elif idade <= 19:
     print('Voçê nasceu em {} e tem {} anos de de idade.\n'
           'Sua categoria é JÚNIOR.'.format(ano_nasc, idade))
 
 # Condicional para categorização SÊNIOR
-elif idade == 20:
+elif idade <= 20:
     print('Você nasceu em {}  e tem {} anos de idade.\n'
           'Sua categoria é SÊNIOR.'.format(ano_nasc, idade))
 
