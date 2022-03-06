@@ -39,8 +39,9 @@ print('='*20)
 
 
 # Formula 2 Simplificada usando laço de repetição
+# Formula 2 Simplificada usando laço de repetição
 n = int(input('Digite um numero: '))
 for i in range(0, 11):
+    j = i
     i = i * n
-    print('A tabuada de {} é {}'.format(n, i))
-    print('{} X {} = {}'.format(n, n, i))
+    print('{} X {} = {}'.format(n, j, i))
