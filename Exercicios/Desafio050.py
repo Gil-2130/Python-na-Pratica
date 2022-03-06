@@ -20,7 +20,7 @@ for i in range(0, 6):
         #print('')      não imprima nada, apenas faça a adição dos números pares
 
     else:
-        print('NÚMEROS ÍMPARES NÃO PERMITIDOS!!')
+        print('NÚMEROS ÍMPARES NÃO SÂO PERMITIDOS!!')
 
 # Imprimindo os resultados
 print(soma)
