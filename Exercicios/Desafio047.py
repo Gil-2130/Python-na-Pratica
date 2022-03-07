@@ -9,3 +9,8 @@ for lista in range(1, 51):
     # Condicional para imprimir apenas os numeros pares
     if lista % 2 == 0:
         print(lista)
+
+# OU
+for n in range(2, 51, 2):
+    print(n)
+print('FIM')
