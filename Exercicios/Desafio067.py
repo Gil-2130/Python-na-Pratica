@@ -32,3 +32,16 @@ while True:
 
 # Mensagem de FIm do programa
 print('Fim')
+
+
+# Resposta do professor
+while True:
+    n = int(input('Deseja ver a tabuada de qual valor? '))
+    print('-#-'*30)
+    if n < 0:
+        break
+
+    for c in range(0, 11):
+        print(f'{c} x {n} = {c*n}')
+    print('-#-' * 30)
+print('Tabuada Encerrada!!')
