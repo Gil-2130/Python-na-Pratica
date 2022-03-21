@@ -3,11 +3,8 @@
 # O jogo só será interrompido quando o jogador perder,
 # mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
 
-# Biblioteca para recolher números aleatórios
+# Biblioteca para escolher números aleatórios
 from random import randint
-
-# Jogador PC
-pc = randint(1,10)
 
 # variavel para armazenar o input
 num = 0
@@ -17,6 +14,10 @@ ganha = 0
 
 # Enquanto...
 while True:
+
+    # Jogador PC
+    pc = randint(1, 10)
+
     # Separador de linhas
     print('==' * 20)
     # Solicitando um número para o usuário
@@ -110,4 +111,49 @@ while True:
 # Mensagem de fim do programa
 print('==' * 20)
 print(f'O Usuário ganhou {ganha} vezes!' if ganha > 0 else 'O usuário perdeu a rodada!')
+
+
+
+# RESPOSTA DO PROFESSOR
+
+# Módulo para geração de numeros aletorios
+from random import randint
+
+# Variavel para armazenar numeros de vitorias
+v = 0
+
+while True:
+    # Obtendo o input do player
+    player = int(input('Digite um valor: '))
+    # Gerando numero aleatório para o PC
+    pc = randint(1, 10)
+    # Valor total para verificar se é par ou ímpar
+    total = player + pc
+    # variavel para armazenar o tipo escolhido(par ou ímpar)
+    tipo = ''
+
+    while tipo not in 'PI':
+        tipo = str(input('Par ou ìmpar? ')).strip().upper()[0]
+    print(f'Você jogou {player} e o pc {pc}. Total = {total} ')
+    print('Deu PAR' if total % 2 == 0 else 'Deu ÍMPAR')
+
+    if tipo == 'P':
+        if total % 2 == 0:
+            print('Você Venceu!!')
+            v += 1
+
+        else:
+            print('Você Perdeu!!')
+            break
+
+    elif tipo == 'I':
+        if total % 2 == 1:
+            print('Você Venceu!!')
+            v += 1
+
+        else:
+            print('Você Perdeu!!')
+            break
+
+    print('Vamos Jogar Mais Uma Vez...')
 
