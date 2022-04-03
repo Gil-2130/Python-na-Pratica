@@ -1,3 +1,4 @@
+"""
 Crie um programa que leia o nome e o preço de vários produtos.
 O programa deverá perguntar se o usuário vai continuar.
 No final mostre;
@@ -5,12 +6,15 @@ No final mostre;
 A) Qual é o total gasto na compra.
 B) Quantos produtos custam mais de R$1000
 C) Qual é o nome do produto mais vendido?
-
+"""
+# variaveis para armazenar valores
 total = 0
 totmil = 0
 p_menor = 0
 cont = 0
 p_barato = ''
+
+# Enquanto a condição for verdadeira
 while True:
     produtos = str(input('Digite um produto: '))
     preco = float(input('Qual o valor do produto? R$'))
