@@ -17,7 +17,7 @@ times = ('América-MG', 'Athletico-PR', 'Atlético-GO', 'Atlético-MG', 'Avaí',
 print('Os 5 primeiros colocados são: ')
 for i in times[0:5]:
     print(i)
-
+# Imprimindo espaçadores (organização do código)
 print('=-='*20)
 
 # laço para imprimir os 04 ultimos colocados
@@ -25,6 +25,7 @@ print('Os 4 ultimos colocados são:')
 for i in times[-4:]:
     print(i)
 
+# imprimindo espaçadores(organização do código
 print('=-='*20)
 
 # Imprimindo a tupla em ordem alfabética
