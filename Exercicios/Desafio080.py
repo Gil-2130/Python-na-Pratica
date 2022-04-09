@@ -27,20 +27,27 @@ for c in range(0, 5):
     # desta vez para verificar se o valor digitado é ao mesmo tempo menor que o ultimo elemento e
     # maior que o primeiro e assim sucessivamente(valor do meio)
     else:
+        
         # obtendo posição dos elementos(começando por 0)
         pos = 0
+        
         # Varrendo da posição 0 até a última posição
         while pos < len(lista):
-            # se N for menor que cada elemento da lista
+        
+        # se N for menor que cada elemento da lista
             if n <= lista[pos]:
+        
                 # Então usamos INSERT para que N assuma a posição do menor elemento da lista
                 lista.insert(pos, n)
+                
                 # Feito isso, damos um break
                 break
+            
             # Contador da lista, para obter o seu tamanho posteriormnte
             pos = pos + 1
 
-# Imprimindo separador
+# Imprimindo separador(Para legibilidade do print)
 print('-='* 30)
+
 # imprimindo a lista já ordenada
 print(f'A lista ordenada é: {lista}')
