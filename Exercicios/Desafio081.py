@@ -10,6 +10,7 @@ numeros = list()
 
 # Criando um laço infinito
 while True:
+
     # Criando uma variavel para receber os inputs
     n = int(input('Digite um número: '))
 
@@ -29,20 +30,26 @@ print(f'Foram digitados os números => {numeros}')
 
 # Imprimindo a lista ordenada em forma decrescente
 numeros.sort(reverse=True)
-print(f'Ordenando a lista => {numeros}')
+print(f'Ordenando a lista em ordem decrescente: {numeros}')
 
-# Imprimindo o número 5 e sua posição
-print(f'O numero 5 está na lista, na posição ', end='')
 
 # Verificando se o número 5 está ou não na lista
 for i in numeros:
-    
+
+
     # Condicional para verificar se o 5 está na lista, ou seja;
     # Se algum valor dividido por 1 for igual a 5,
     # Então este valor é 5, certo?
-    if i % 1 == 5:
-        # Imprimindo o indice do 5
-        print(f'{numeros.index(5)}...', end='')
-        
-print()
-print('O número 5 não se encontra nesta lista.')
+    if i * 1 == 5:
+
+        # Imprimindo o número 5 e sua posição
+        print(f'O numero 5 foi encontrado e está no indice {numeros.index(5)}')
+        # # Imprimindo o indice do 5
+        # print(f'{numeros.index(5)}...')
+
+
+    # Se então, o número não estiver na lista, imprima a msg abaixo.
+    else:
+        print('O número 5 não encontrado...')
+
+print('Fim do programa')
