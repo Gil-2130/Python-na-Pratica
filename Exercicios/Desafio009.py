@@ -2,7 +2,7 @@
 Faça um programa que leia um numero inteiro qualquer e mostre na tela a sua tabuada.
 """
 
-# Formula 1
+# Formula 1 (leiga)
 m = int(input('Digite um número: '))
 one = m * 1
 two = m * 2
@@ -38,10 +38,16 @@ print('{} X 10 = {}'.format(m, ten))
 print('='*20)
 
 
+
 # Formula 2 Simplificada usando laço de repetição
-# Formula 2 Simplificada usando laço de repetição
+
+# Obtendo o input
 n = int(input('Digite um numero: '))
+# Laço para calcular o input de 0 a 10
 for i in range(0, 11):
+    # J receberá i para usarmos como um dos elementos da multiplicação
     j = i
+    # Multiplicando i pelo input
     i = i * n
+    # Imprimindo o resultado formatado como tabela
     print('{} X {} = {}'.format(n, j, i))
