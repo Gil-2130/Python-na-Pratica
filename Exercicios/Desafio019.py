@@ -2,9 +2,11 @@
 Um professor quer sortear um dos seus 04 alunos para apagar o quadro.
 Faça um programa que o ajude lendo o nome deles e escrevendo o nome do escolhido.
 """
+# Importando a biblioteca
 from random import choice
-
+# Criando uma tupla para armazenar os nomes
 names = 'maria', 'joao', 'pedro', 'gustavo'
+# Imprimindo os resultados
 print('O nome escolhido foi {}.'.format(choice(names)))
 
 
