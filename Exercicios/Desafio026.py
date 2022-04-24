@@ -5,6 +5,7 @@ Crie um programa que leia uma frase pelo teclado e mostre:
 3. Em que posição ela aparece a ultima vez
 """
 
+# Obtendo a frase
 frase = str(input('Digite qualquer frase: ')).strip()
 
 # Quantas vezes a letra aparece na frase
