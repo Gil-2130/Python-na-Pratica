@@ -3,6 +3,7 @@ Crie um programa que leia o nome de uma cidade e diga se
 ela começa ou não com o nome 'SANTO'
 """
 
+# Obtendo o nome da cidade
 cid_3 = str(input('Qual a sua cidade? ')).strip()  # REmovendo os espaços em excesso se eles existirem
 
 # Verificando se a palavra digitada corresponde, porém devido ao case sensitive
