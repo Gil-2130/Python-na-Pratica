@@ -6,7 +6,10 @@ ANA Maria de Souza
 Primeiro nome: Ana
 Ultimo Nome: Souza
 """
+
+# Obtendo o nome
 nome = 'Ana Maria de Souza'
+# Imprimindo resultados
 print(nome[0:3], nome[13:18])
 
 # OU
