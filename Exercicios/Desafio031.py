@@ -7,11 +7,14 @@ e R$0,45 para viagens mais longas.
 
 # Forma 1
 viagem = float(input('Quantos quilômetros tem a viagem? '))
+# condicinal caso a distância da vaigem sea menor que 200KM
 if viagem <= 200:
     print('O preço da passagem custará R${}'.format(viagem * 0.50))
+# caso contrário
 else:
     print('O preço da passagem custará R${}'.format(viagem * 0.45))
 
+# Imprimindo organizador do código
 print('_==_' * 20)
 
 # forma 2
