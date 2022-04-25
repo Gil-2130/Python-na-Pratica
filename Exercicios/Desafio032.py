@@ -2,7 +2,9 @@
 Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
 """
 
+# Biblioteca para trabalhar com datas
 from datetime import date
+# otendo o ano que desejamos analisar
 ano = int(input('Qual ano deseja Analizar? \nDigite 0 para analisar o ano atual '))
 if ano == 0:
     ano = date.today().year
