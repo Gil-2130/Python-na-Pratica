@@ -6,14 +6,18 @@ pelo computador.
 O programa deverá escrever na tela se o usuario venceu ou perdeu
 """
 
+# Importando biliotecas
 from random import randint
 from time import sleep
 
+# escolhendo um valor aleatório entre 0 e 5
 rand = randint(0, 5)
+# Imprimindo organizador de código
 print('-==-' * 20)
 print('Pensei em um número...')
 print('-==-' * 20)
 
+# Variavel que pede um número para o usuário
 choose = int(input('Me diga em qual numero eu pensei: '))
 print('PROCESSANDO')
 sleep(1.5)
