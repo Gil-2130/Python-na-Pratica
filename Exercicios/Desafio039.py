@@ -25,10 +25,12 @@ idade = atual - nasc
 # Idade para alistamento
 alist = 18
 
-# Condicional para alistamento
+# Condicional para alistamento (sexo F)
 if sexo == 'f':
     print('Mulher, você não é obrigada a se alistar!')
-elif sexo == 'm':
+
+ # 
+ elif sexo == 'm':
     print('Homens são obrigados a se alistar!')
 elif idade < 18:
     print('Faltam {} anos para se alistar no serviço militar.'.format(alist - idade))
