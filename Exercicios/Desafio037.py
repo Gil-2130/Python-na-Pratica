@@ -6,11 +6,14 @@ e peça para o usuário escolher qual será a base de conversão
 3. Para Hexadecimal
 """
 
+# Obtendo um número inteiro
 num = int(input('Digite um número inteiro: '))
 print('Escolha uma das bases para conversão:\n'
       '[1] Converter para BINÁRIO\n'
       '[2] Converter para OCTAL\n'
       '[3] Converter para HEXADECIMAL')
+
+# Solicitando a opção para o usuário
 opcao = int(input('Sua opção: '))
 
 # Convertendo o número para BINÁRIO
