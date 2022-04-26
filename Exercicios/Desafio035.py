@@ -3,9 +3,10 @@ Desenvolva um programa que leia o comprimento de 03 retas e diga ao usuario
 se elas podem ou não formar um triangulo
 """
 
-# Só irá existir um triângulo se, somente se, os seus lados obedeceram à seguinte regra:
+# Só irá existir um triângulo se e somente se, os seus lados obedeceram à seguinte regra:
 # um de seus lados deve ser maior que o valor absoluto (módulo) da diferença dos outros dois lados
 # e menor que a soma dos outros dois lados. Veja o resumo da regra abaixo:
+
 # Exemplo da fórmula de como criar um triangulo
 a = 5
 b = 10
