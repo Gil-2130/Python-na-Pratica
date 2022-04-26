@@ -7,10 +7,13 @@ Para salários superiores a R$1.250,00, calcule um aumento de 10%
 Para os inferiores ou iguais, aumento é de 15%
 """
 
+# Obtendo salário do usuário
 salario = float(input('Qual é o seu salário? '))
+# Condicional para obter aumento de 15%
 if salario <= 1250:
     print('OK, seu atual salario de R${} sofrerá reajuste de 15%\n'.format(salario),
           'Seu novo salário será de R${}'.format(salario + (salario * 0.15)))
+# Caso contrário, o amento será de 10%
 else:
     print('OK, seu atual salario de R${} sofrerá reajuste de 10%\n'.format(salario),
           'Seu novo salário será de R${}'.format(salario + (salario * 0.10)))
