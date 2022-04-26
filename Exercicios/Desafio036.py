@@ -8,7 +8,7 @@ calcule o valor da prestação mensal sabendo que ele não pode exceder
 30% do salário ou então o empréstimo será negado.
 """
 
-# Valor da casa
+# Obtendo o valor da casa
 casa = float(input('Qual o valor da casa? '))
 
 # Salário por Mês
