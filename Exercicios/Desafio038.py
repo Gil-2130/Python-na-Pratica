@@ -7,8 +7,11 @@ O segundo valor é maior
 Não existe valor maior, os dois são iguais
 """
 
+# Obtendo um valor para o usuário
 n1 = int(input('Digite um número: '))
 n2 = int(input('Digite outro número: '))
+
+# Condicional de comparação
 if n1 > n2:
     print('O primeiro número ({}), é maior que {} .'.format(n1, n2))
 elif n1 < n2:
