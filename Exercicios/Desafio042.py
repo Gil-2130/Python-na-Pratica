@@ -16,12 +16,12 @@ c = 9
 tri = a < b + c and b < c + a and c < b + a
 print(tri)  # A saída será True pois os valores atendem á formula
 
-# Obtendo o tamanho dos ladpos do possível triângulo
+# Obtendo o tamanho dos lados do possível triângulo
 a1 = float(input('Digite o tamanho do lado A: '))
 b1 = float(input('Digite o tamanho do lado B: '))
 c1 = float(input('Digite o tamanho do lado C: '))
 
-# Condicional para a formação do triangulo
+# Condicional para a formação de um triangulo
 if a1 < b1 + c1 and b1 < a1 + c1 and c1 < a1 + b1:
     
     # Condicional para verificar que tipo de triangulo será criado
