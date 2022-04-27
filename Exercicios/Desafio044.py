@@ -1,5 +1,5 @@
 """
-Elabore um programa que calcule o valor a ser oago por um produto,
+Elabore um programa que calcule o valor a ser pago por um produto,
 considerando o seu preço normal e condição de pagamento:
 
 - à vista dinheiro/cheque: 10% de desconto
@@ -8,6 +8,7 @@ considerando o seu preço normal e condição de pagamento:
 - 3x ou mais no cartão: 20% de juros
 """
 
+# Condicinais para calcular os descontos
 if opcao == 1:
     desconto = product - product * 0.10
     print('Seu desconto será R${}, o valor total será de R${}'.format(product - desconto, desconto))
