@@ -9,10 +9,14 @@ calcule seu IMC e mostre seu staus de acordo coma atabela abixo:
  - Acima de 40 : Obesidade mórbida
 """
 
+# Obtendo o peso
 peso = float(input('Qual é o seu peso? '))
+# Obtendo a altura
 altura = float(input('Qual é a sua altura? '))
+# Calculando o IMC
 imc = peso / (altura**2)
 
+# Condicionais para calcular em qual faixa de peso a pessoa se encontra
 if imc < 18.5:
     print('Seu IMC é {:.1f}'.format(imc))
     print('Alimente-se, você está abaixo do peso!')
