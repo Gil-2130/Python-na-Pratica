@@ -9,7 +9,7 @@ ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
  - Acima de 20 anos: MASTER
 """
 
-# Importando módulo para trrabalhar com datas
+# Importando módulo para trabalhar com datas
 from datetime import date
 
 # obtendo a data atual
@@ -18,7 +18,7 @@ atual = date.today().year
 # obtendo ano de nascimento
 ano_nasc = int(input('Ano de Nascimento: '))
 
-# obtendo a idade
+# Calculo para obter a idade
 idade = atual - ano_nasc
 
 # Condicional para categorização MIRIM
