@@ -1,5 +1,6 @@
 """
 Crie um programa que faça o computador jogar jokenpô com você.
+
 """
 print('{:=^40}'.format(' JOKENPO '))
 
