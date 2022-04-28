@@ -9,6 +9,7 @@ for lista in range(1, 51):
     # Condicional para imprimir apenas os numeros pares
     if lista % 2 == 0:
         print(lista)
+    # Caso contrário, os valores serão ímpares
 
 # OU
 for n in range(2, 51, 2):
