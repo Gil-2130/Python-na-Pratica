@@ -15,13 +15,14 @@ for i in range(1, 501):
     if i % 3 == 0 and i % 2 == 1:
 
         # Com a condição atendida, iremos guardar o resultado na variavel (acumulador)
-        soma = soma + i
+        soma = soma + i 
         
-        # verificando quantos números foram obtidos
-        cont= cont + 1
+        # verificando quantos números foram obtidos (contador)
+        cont = cont + 1
 
         # Este print não é necessário, então podemos remover.
         print(i)
+        
 # Por fim imprimimos os resultados
 print('Foram encontrados {} números nessa sequência'.format(cont))
 print('A soma total foi de {}'.format(soma))
