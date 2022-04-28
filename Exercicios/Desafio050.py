@@ -19,6 +19,7 @@ for i in range(0, 6):
         soma = soma + n
         #print('')      não imprima nada, apenas faça a adição dos números pares
 
+    # Caso contrário, os valores serão ímpares
     else:
         print('NÚMEROS ÍMPARES NÃO SÂO PERMITIDOS!!')
 
