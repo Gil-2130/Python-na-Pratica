@@ -6,7 +6,7 @@ No final mostre os 10 primeiros termos dessa progressão.
 # Solicitando o numero
 n = int(input('Digite um número: '))
 
-# Solicitando a PA
+# Solicitando a PA (progressão aritmética)
 pa = int(input('Digite a PA para este número: '))
 
 # Obtendo os 10 primeiros termos da progressão
