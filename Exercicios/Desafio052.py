@@ -23,6 +23,8 @@ for i in range(1, n + 1):
     print('{} '.format(i), end='')
 
 print('\n\033[m0 Número {} foi divisivel {} vezes.'.format(n, total))
+
+# Condicional d número primo
 if total == 2:
     print('Este é um número primo!')
 else:
