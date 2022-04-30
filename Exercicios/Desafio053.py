@@ -4,7 +4,7 @@ Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, de
 
 """
 
-# solicitando a frase
+# solicitando a frase, dividindo e colocando em maiusculo
 frase = str(input('Digite uma frase: ')).strip().upper()
 
 # Dividindo o texto (O resultado será uma lista de palavras)
