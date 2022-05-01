@@ -7,6 +7,7 @@ Crie um programa que leia 02 valores e mostre um menu na tela;
 [5] Sair do programa
 
 O programa deverá realizar a operação solicitada em cada caso.
+
 """
 # Importando modulo tempo apenas para dar um 'lazy' no ultimo print
 from time import sleep
