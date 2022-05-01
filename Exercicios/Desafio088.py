@@ -1,4 +1,5 @@
 """
+
 Faça um programa que ajude um jogador da megasena a criar palpites.
 
 O programa vai perguntar quantos jogos serão gerados e vai sortear
