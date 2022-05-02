@@ -27,7 +27,7 @@ total = 0
 # Armzenando novos termos
 mais = 10
 
-# Laço
+# Laço enquanto mais for diferente de 0
 while mais != 0:
 
     # armazendo a variavel responsável por solicitar mais PA's
