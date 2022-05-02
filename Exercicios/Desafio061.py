@@ -9,6 +9,7 @@ print('=-=' * 10)
 
 # Obtendo o primeiro termo
 prim = int(input('Primeiro termo: '))
+# Obtendo a razão
 razao = int(input('Razão da PA: '))
 termo = prim
 cont = 1
