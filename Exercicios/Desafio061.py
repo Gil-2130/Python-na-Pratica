@@ -11,7 +11,9 @@ print('=-=' * 10)
 prim = int(input('Primeiro termo: '))
 # Obtendo a razão
 razao = int(input('Razão da PA: '))
+# Termo da progressão
 termo = prim
+# Contador
 cont = 1
 
 while cont <= 10:
