@@ -9,8 +9,8 @@ No final, mostre quantos números foram digitados e qual foi a soma entre eles (
 num = 0
 # Contador
 cont = 0
+# Variável SOMA
 soma = 0
-
 num = int(input('Digite um número [999 para encerrar]: '))
 while num != 999:
 
