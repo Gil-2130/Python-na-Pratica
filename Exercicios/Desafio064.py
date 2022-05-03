@@ -11,6 +11,7 @@ num = 0
 cont = 0
 # Variável SOMA
 soma = 0
+# Obtendo o input do usuário
 num = int(input('Digite um número [999 para encerrar]: '))
 while num != 999:
 
