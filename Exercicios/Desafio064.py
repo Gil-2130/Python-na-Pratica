@@ -7,6 +7,7 @@ No final, mostre quantos números foram digitados e qual foi a soma entre eles (
 """
 # Variável para armazenar os valores
 num = 0
+# Contador
 cont = 0
 soma = 0
 
