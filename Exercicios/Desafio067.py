@@ -3,6 +3,7 @@
 #
 # O programa será interrompido quando o numero solicitado for negativo
 
+
 # variavel para armazenar o input
 num = 0
 
