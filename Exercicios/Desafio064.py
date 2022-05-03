@@ -5,7 +5,7 @@ O programa só irá parar quando o usuário digitar o valor 999, que é a condi�
 
 No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando a flag)
 """
-
+# Variável para armazenar os valores
 num = 0
 cont = 0
 soma = 0
