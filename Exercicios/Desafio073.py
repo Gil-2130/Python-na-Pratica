@@ -6,7 +6,9 @@ A). Apenas os 5 primeiros colocados.
 B). Os últimos 04 colocados da tabela.
 C). Uma lista com os times em ordem alfabética.
 D). Em que posição está o time da chapecoense.
+
 """
+
 # Tupla com os times
 times = ('América-MG', 'Athletico-PR', 'Atlético-GO', 'Atlético-MG', 'Avaí', 
          'Botafogo', 'Ceará-SC', 'Corinthians', 'Chapecoense', 'Cuiabá',
