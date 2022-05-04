@@ -107,6 +107,7 @@ while True:
             print('FIM do jogo!')
             # Interrompendo o game se o usuário Perder
             break
+            
 
 # Mensagem de fim do programa
 print('==' * 20)
