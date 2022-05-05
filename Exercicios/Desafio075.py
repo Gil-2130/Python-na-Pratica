@@ -1,4 +1,5 @@
 """
+
 Desenvolva um programa que leia 04 valores pelo teclado
 e guarde-os em uma tupla.
 
@@ -7,6 +8,7 @@ A). Quantas vezes apareceu o valor 9
 B). E que posição foi digitado o primeiro valor 3
 C). Quais foram os números pares.
 """
+
 # Criando uma tupla através de um input
 num = (int(input('Digite um  número: ')),
        int(input('Digite outro numero: ')),
