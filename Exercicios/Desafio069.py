@@ -13,6 +13,7 @@ C) Quantas mulheres tem menos de 20 anos
 
 # Variavel para armazenar todas as idades(não cumulativo)
 tot18 = 0
+
 # Guardando a idade do sexo masculino
 totH = 0
 # Guardando a idade do sexo Feminino
