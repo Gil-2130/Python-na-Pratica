@@ -1,4 +1,5 @@
 """
+
 Crie um programa que vai gerar 05 numeros aleatorios
 e colocar em uma tupla.
 
