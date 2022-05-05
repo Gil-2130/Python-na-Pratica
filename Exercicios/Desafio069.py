@@ -7,7 +7,6 @@ ou não continuar. No final, mostre:
 A) Quantas pessoas tem mais de 18 anos.
 B) Quantos Homens foram cadastrados.
 C) Quantas mulheres tem menos de 20 anos
-
 """
 
 # REsposta do Professor
