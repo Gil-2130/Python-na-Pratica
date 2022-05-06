@@ -4,6 +4,7 @@ e seus respectivos preços, na sequência.
 
 No final, mostre uma listagem de preços, organinzando
 os dados em forma tabular.
+
 """
 # Tupla de itens de uma cesta com os respectivos valores
 cesta = ('leite:', 2.50,
