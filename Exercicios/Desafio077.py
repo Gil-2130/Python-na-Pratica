@@ -2,6 +2,7 @@
 Crie um programa que tenha uma tupla com várias palavras(Não use acentos).
 Depois disso, você deve mostrar, para cada palavra
 quais são as suas vogais.
+
 """
 # Criando a tupla de palavras
 palavras = ('maria', 'jose', 'pedro', 'macarrao')
