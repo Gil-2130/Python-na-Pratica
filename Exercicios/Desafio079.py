@@ -5,7 +5,9 @@ cadastre-os em uma lista.
 Caso o número já exista lá dentro, ele não será adicionado.
 
 No final, serã exibidos todos os valores únicos digitados, em ordem crescente.
+
 """
+
 # Criando uma lista vazia
 numeros = list()
 
