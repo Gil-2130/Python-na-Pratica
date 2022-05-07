@@ -1,5 +1,4 @@
 """
-
 Faça um programa que leia nome e peso de várias pessoas,
 guardando tudo em uma lista. No final mostre;
 A) Quantas pessoas foram cadastradas
