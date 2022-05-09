@@ -1,6 +1,8 @@
 """
 Faça um programa que leia um numero inteiro e mostre na tela o seu sucessor e seu antecessor
+
 """
+
 # Obtendo um número pelo input e armazenando em uma variável
 n = int(input('Digite um número: '))
 # Calculando o antecessor do input
