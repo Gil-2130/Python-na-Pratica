@@ -2,6 +2,7 @@
 Desafio
 -> Crie um programa que leia dois numeros e mostre a soma entre eles.
 """
+
 # Variável para armazenar um número
 n1 = int(input('Digite um número: '))
 # Variável para armazenar o segundo valor
