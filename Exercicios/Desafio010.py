@@ -1,6 +1,7 @@
 """
 Crie um programa que leia o quanto dinheiro uma pessoa tem na carteira
-e mostre quantos dolares ela pode comprar
+e mostre quantos dolares ela pode comprar.
+
 """
 
 # 1 Dólar (EUA) = 5,26 Real Brasileiro
