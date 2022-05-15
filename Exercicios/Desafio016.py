@@ -2,8 +2,9 @@
 Crie um programa que leia um número real qualquer e mostre na tela a sua porção inteira
 """
 
-# Usando módulo
+# Usando módulo truncate(corta)
 from math import trunc
+
 # Obtendo um valor
 num = float(input('Digite um número real: '))
 # Imprimindo resultados
