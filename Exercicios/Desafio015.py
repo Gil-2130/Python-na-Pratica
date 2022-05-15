@@ -4,7 +4,9 @@ a quantidade de dias que ele foi alugado.
 
 Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por kilometro rodado
 """
-# Obtendo aquilometragem
+
+
+# Obtendo a quilometragem
 kilometros = float(input('Quantos kilômetros você rodou com o veículo? '))
 # Obtendo a quantidade de dias utilizados
 dias_rodados = float(input('Quantos dias o veículo foi alugado? '))
