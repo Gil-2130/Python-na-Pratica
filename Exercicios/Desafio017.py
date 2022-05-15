@@ -5,15 +5,20 @@ de um triangulo retangulo, calcule e mostre o compriento da hipotenusa.
 
 # A minha Resposta (Importando Módulo)
 from math import sqrt, trunc
+
 # Obtendo o cateto oposto
 cat_ops = float(input('Qual o valor do cateto oposto?: '))
+
 # Obtendo o cateto adjacente
 cat_adj = float(input('Qual é o valor do cateto adjacente? '))
+
 # Obtendo a Hipotenusa
 hipo_x = sqrt(pow(cat_ops, 2) + pow(cat_adj, 2))
+
 # Imprimindo resultados
 print('O valor da Hipotenusa é {:.2f}'.format(hipo_x))
 print('=' * 20)
+
 
 # Resposta do professor (Sem módulo)
 co = float(input('Comprimento do catetto oposto: '))
