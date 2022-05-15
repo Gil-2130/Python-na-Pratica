@@ -20,6 +20,9 @@ print('O valor da Hipotenusa é {:.2f}'.format(hipo_x))
 print('=' * 20)
 
 
+
+
+
 # Resposta do professor (Sem módulo)
 co = float(input('Comprimento do catetto oposto: '))
 ca = float(input('Comprimento do cateto adjacente: '))
