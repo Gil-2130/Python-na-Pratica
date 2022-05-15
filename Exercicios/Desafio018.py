@@ -10,6 +10,7 @@ angulo      seno    Cosseno     Tangente
 60°          √3/2         1/2      √3
 """
 
+
 # Importando o seno, cosseno, tangente e radians(funçaõ para converção de centímetros)
 from math import sin, radians, cos, tan
 
