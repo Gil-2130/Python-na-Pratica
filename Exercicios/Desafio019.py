@@ -12,6 +12,7 @@ names = 'maria', 'joao', 'pedro', 'gustavo'
 print('O nome escolhido foi {}.'.format(choice(names)))
 
 
+
 # Resposta do professor
 n1 = str(input('Primeiro Aluno? '))
 n2 = str(input('Segundo aluno? '))
