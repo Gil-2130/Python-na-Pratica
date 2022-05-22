@@ -7,6 +7,7 @@ A) De 1 até 10, a cada 1
 B) DE 10 até 0, a cada 2
 C) Uma contagem personalizada
 """
+
 # Importando biblioteca apenas para diminuir o tempo de execução do print
 from time import sleep
 
