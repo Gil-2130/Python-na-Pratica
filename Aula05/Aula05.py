@@ -1,4 +1,5 @@
 """
+
 Importando modulos para calculos numericos (math)
 sqrt => Raíz quadrada
 ceil => Arredondar pra cima 5.8 -> 6.0
@@ -10,6 +11,7 @@ factorial =>
 
 obs; Ao importar math e desejarmos usar uma ou mais funções, é necessário usar; math.funçao desejada.
 Caso contrário, você pode importar apenas as funções desejadas usando o método FROM
+
 """
 
 # importando o modulo completo (Necessário se for usar mais de 02 funções ou todas)
