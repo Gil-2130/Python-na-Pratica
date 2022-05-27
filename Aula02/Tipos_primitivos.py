@@ -1,5 +1,5 @@
 """
-Nessa aula iremos trabalhar com tipos primitivos na prática
+Nessa aula iremos trabalhar com tipos primitivos na prática.
 
 Em Python existem 04 tipos primitivos; int, float, bool e str.
 int = numeros inteiros
@@ -58,6 +58,6 @@ print(n1.isalpha())
 n1 = input('Digite qualquer coisa: ')
 print(n1.isalnum())
 
-# Tudo que executamos acima foram os tipos e os tipos
+# Tudo que executamos acima foram os tipos.
 
 
