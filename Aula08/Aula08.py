@@ -1,3 +1,4 @@
+# Obtendo o nome do usuário
 nome = str(input('Digite seu nome: ')).upper()
 
 # Condição simples (possui apenas um IF)
