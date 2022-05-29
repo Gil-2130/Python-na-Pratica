@@ -21,6 +21,7 @@ def notas(*n, situacao=False):
     :param situacao: (opcional) mostra a situação do aluno.
     :return: retorna um dicionário contendo a nota mais baixa, média das notas, nota máxima e total de notas.
     """
+    
     # Criando dicionário
     r = dict()
     # Total de notas
@@ -41,6 +42,7 @@ def notas(*n, situacao=False):
         else:
             r['Situação'] = 'Reprovado'
 
+    # Retornando R
     return r
 
 
