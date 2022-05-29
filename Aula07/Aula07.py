@@ -8,10 +8,14 @@ else:
 
 print('Fim do Programa!')
 
+
+
 # EXEMPLO 2
 tempo = int(input('Quantos anos tem seu veiculo? '))
 print('Carro novo' if tempo <=5 else 'Carro velho')
 print('=====FIM=====' * 3)
+
+
 
 # EXEMPLO 3
 n1 = float(input('Digite a primeira nota: '))
