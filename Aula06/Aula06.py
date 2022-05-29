@@ -2,6 +2,7 @@
 frase = 'Curso em video Python'
 print(frase)
 
+
 # Fatiamento
 print(frase[9])  # Buscando o indice 9
 print(frase[2:12])  # Iniciando de um indice até outro indice
@@ -10,9 +11,11 @@ print(frase[:5])  # Fatiando do inicio até o indice especificado
 print(frase[5:])  # Iniciando de um indice e indo até onde a string/texto termina
 print(frase[5::2])  # Começa em um indice, vai até o final do texto mas pulando de 2 em 2 caracteres
 
+
 # Obtendo o tamanho de uma string
 print(f'A string contém {len(frase)} caracteres!')
 print('A string contém {} caracteres!'.format(len(frase)))
+
 
 # Contando quantos caracteres aparecem repetidamente dentro de uma frase
 print(frase.count('o'))  # quantos caracteres aparecem na string(texto)
@@ -22,6 +25,8 @@ print(frase.upper().count('O'))  # Utilizando dois métodos; coloque tudo em mai
 # Encontrando um caracter ou uma sequencia de caracteres dentro de uma string
 print(frase.find('rs'))  # a saida indica em qual indice está localizado o caracter
 print('Curso' in frase)  # Existe curso in frase? resposta booleana (lembre-se que pthon é case-sensitive)
+
+
 
 """
 ============================ TRNSFORMAÇÃO DE STRINGS===================================
