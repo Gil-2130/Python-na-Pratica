@@ -29,5 +29,7 @@ else:
 # Se o nome do jogador receber um valor vazio
 if nome.strip() == '':
     ficha(gol=gols)
+# Caso Contrário
 else:
+    # Recebebendo nome e gols
     ficha(nome, gols)
