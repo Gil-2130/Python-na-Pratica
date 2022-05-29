@@ -30,7 +30,9 @@ def leiaINT(msg):
             print(f'\033[0;31mERRO! Valor digitado inválido! Digite apenas números.\033[m')
         # Condicional para interromper o loop infinito
         if ok:
+            # Interrompendo laço
             break
+    # Retornando o valor
     return valor
 
 
