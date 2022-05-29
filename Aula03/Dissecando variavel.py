@@ -1,7 +1,7 @@
 """
 Identificando o tipo de dado que recebemos no input e todos os métodos disponiveis
 
-A saida será um boolean
+A saída será um boolean
 """
 
 a = input('Digite algo: ')
