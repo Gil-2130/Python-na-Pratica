@@ -48,6 +48,8 @@ def titulo(msg, cor=0):
 
 # Programa Principal
 comando = ''
+
+# laço para solicitar o HELP enquanto a condicional não for satisfeita
 while True:
     titulo('Sistema de Ajuda PyHELP', 3)
     comando = str(input('Função ou biblioteca: '))
