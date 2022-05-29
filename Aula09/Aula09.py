@@ -1,4 +1,4 @@
-# Imprimindo  "OI" 06 vezes
+# Imprimindo  "OI" 06 vezes (improdutivo)
 print('oi')
 print('oi')
 print('oi')
