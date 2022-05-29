@@ -3,6 +3,7 @@ for c in range(1, 10):
     print(c)
 print('FIM!!')
 
+
 # Criando um laço de repetição simples com WHILE
 c = 1
 while c < 10:
@@ -10,10 +11,12 @@ while c < 10:
     c = c + 1
 print('FIM!!')
 
+
 # exemplo 3
 for c in range(1, 5):
     n = int(input('Digite um valor: '))
 print('FIM')
+
 
 # Exemplo 4 (o programa somente será interompido quando o valor for 0)
 n = 1
