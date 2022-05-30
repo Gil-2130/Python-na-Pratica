@@ -9,6 +9,7 @@ F) - Organização do código
 G) - Facilidade de manutenção
 H) - Ocultação de código detalhado
 I) - Reutilização em outros projetos
+
 """
 
 # Exemplo 1
