@@ -10,6 +10,7 @@ peso = 70
 # Imprimindo na tela
 print(nome, idade, peso)
 
+
 # Usando o input
 nome = input('Qual é o seu nome? ')
 idade = float(input('Qual é a sua idade? '))
