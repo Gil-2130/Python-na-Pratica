@@ -9,6 +9,8 @@ TEXT -> 30(White), 31(Red), 32(Green), 33(Yellow), 34(Blue), 35(Magente), 36(Cia
 BACKGROUND -> 40(White), 41(Red), 42(Green), 43(Yellow), 44(Blue), 45(Magente), 46(Ciano), 47(Gray)
 
 """
+
+
 print('\033[0;30;41mTESTE')
 print('\033[4;33;44mTESTE')
 print('\033[1;35;43mTESTE')
