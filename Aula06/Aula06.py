@@ -73,6 +73,7 @@ print(frase_1.lstrip())
 # removendo todos os espaços em excesso
 print(len(frase_1.replace('   ', ' ')))
 
+
 """
 =============== DIVIDINDO A STRING ===========================
 """
