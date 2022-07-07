@@ -1,5 +1,5 @@
 # Usando o print, variaveis, strings e numeros
-nome = 'giliard'
+nome = 'Nome?'
 idade = 34
 peso = 70
 print(nome, idade, peso)
