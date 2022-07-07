@@ -43,7 +43,7 @@ c = a ** b
 print(c)
 print('=' * 20)
 
-# DEscobrindo a raiz cúbica de um número
+# Descobrindo a raiz cúbica de um número
 a = 127
 b = 1 / 3
 c = a ** b
@@ -88,7 +88,8 @@ divi = num1 / num2
 Dint = num1 // num2
 expo = num1 ** num2
 
-print('A soma é {}, a multiplicação é {} e a divisão é {}'.format(soma, mult, divi))
+p
+rint('A soma é {}, a multiplicação é {} e a divisão é {}'.format(soma, mult, divi))
 print('='*20)
 print('A divisão inteira é {} e a exponenciação é {}'.format(Dint, expo))
 print('=' * 20)
