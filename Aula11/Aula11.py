@@ -39,6 +39,7 @@ print(f'A soma vale {soma}')
 n = 0
 soma = 0
 while True:
+    
     n = int(input('Digite um número: '))
     if n == 100:
         break
