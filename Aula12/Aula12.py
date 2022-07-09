@@ -4,7 +4,7 @@ lista = [] -> REpresentada por argumentos entre colchetes
 dicionário = {} -> Representada por elementos dentro de chaves
 """
 
-# Lista de Alimentos
+# Lista ou tupla de Alimentos
 lanche = ('Hamburguer', 'Suco', 'Pizza', 'Pudim')
 
 # Imprimindo os elementos da tupla
