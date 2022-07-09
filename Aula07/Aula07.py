@@ -1,5 +1,6 @@
 # EXEMPLO 01
 nome = str(input('Qual á o seu nome? '))
+
 if nome == 'Maria'.lower():
     print('Olá {}, seja bem vindo ao Python!'.format(nome))
 
