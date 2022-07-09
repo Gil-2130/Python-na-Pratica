@@ -61,7 +61,6 @@ print('{:=^50}'.format(' ESPAÇO ENTRE PRINTs '))
 
 
 
-
 # Criando um laço com o input do usuario
 n = int(input('Digite um número: '))
 for c in range(0, n + 1):  # adicionando mais um contador ao input (util se desejar adicionar o exclusivo)
