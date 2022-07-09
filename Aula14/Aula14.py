@@ -1,10 +1,13 @@
 # Criando uma lista vazia
 dados = list()
+
 # Adicionando dados á lista
 dados.append('BlueShift')
 dados.append(2022)
+
 # Imprimindo a lista
 print(dados)
+
 # Imprimindo determinadas posições da lista
 print(dados[0])
 print(dados[1])
