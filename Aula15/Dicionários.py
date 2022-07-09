@@ -29,10 +29,13 @@ filme = {'Titulo': 'Stars Wars',
          }
 # Imprimindo o dicionário
 print(filme)
+
 # Imprimindo apenas os valores das chaves no dicionário
 print(filme.values())
+
 # Imprimindo apenas as chaves
 print(filme.keys())
+
 # Imprimindo os itens do dicionário
 print(filme.items())
 
