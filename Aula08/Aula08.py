@@ -7,6 +7,7 @@ if nome == 'Eduardo':
 print('Tenha um bom dia, {}'.format(nome))
 print('-=-'*20)
 
+
 #=============== Condição Composta ===============
 # usei esse método para colocar o nome em maiusculo,
 # e atender a condição caso o usuario digite em minusculo.
