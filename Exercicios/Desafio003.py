@@ -5,10 +5,13 @@ Desafio
 
 # Variável para armazenar um número
 n1 = int(input('Digite um número: '))
+
 # Variável para armazenar o segundo valor
 n2 = int(input('Digite outro numero: '))
+
 # Realizando a soma das duas variáveis
 s = n1 + n2
+
 # Imprimindo os resultados
 print('A soma entre {} e {}, é {}.'.format(n1, n2, s))
 print('===================================')
