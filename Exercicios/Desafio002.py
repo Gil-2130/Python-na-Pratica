@@ -1,5 +1,5 @@
 """
-Exercício 2 ->Crie um Programa que eia o nome de uma pesooa de mostre uma mensagem de boas-vindas.
+Exercício 2 ->Crie um Programa que eia o nome de uma pessoa de mostre uma mensagem de boas-vindas.
 
 """
 
