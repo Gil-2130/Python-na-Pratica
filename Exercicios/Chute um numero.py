@@ -34,6 +34,7 @@ if chute < valor_aleatorio:
     print ' Chutou baixo, tente novamente!'
 if chute == valor aleatório
     print 'Você acertou!'
+    
 """
 
 import random
