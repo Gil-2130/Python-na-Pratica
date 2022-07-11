@@ -23,6 +23,7 @@ def mensagem(msg):
 mensagem('              SISTEMA de ALUNOS                  ')
 mensagem('         CADASTRO DE FUNCIONÁRIOS            ')
 
+
 # =========================== PRÁTICA ===================================
 
 # Operações aritméticas básicas (SOMA)
