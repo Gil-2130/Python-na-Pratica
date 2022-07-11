@@ -18,6 +18,7 @@ num = int(input('Digite um valor: '))
 # importando módulo fatorial criado anteriormente
 from uteis import numeros
 
+
 fat = numeros.fatorial(num)
 print(f'O fatorial de {num} é {fat}')
 
