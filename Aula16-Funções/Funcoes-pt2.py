@@ -22,6 +22,7 @@ def contador(i, f, p):
 
 contador(2, 10, 2)
 
+# Ajuda para contador9função que nós mesmos criamos)
 help(contador)
 
 
