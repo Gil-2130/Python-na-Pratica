@@ -4,8 +4,10 @@ Crie um programa que leia um valor em metros e o exiba convertido em centimetros
 
 # Obtendo a metragem
 met = float(input('Quantos metros deseja converter? '))
+
 # Convertendo a metragem para centimetros
 cent = met * 100
+
 # Convertendo a metragem para milímetros
 mili = met * 1000
 
