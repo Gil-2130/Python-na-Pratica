@@ -34,11 +34,14 @@ print(fatorial
 
 # Obtendo o número
 numero = int(input('Digite um numero: '))
+
 # caso o numero seja maior que 0
 if numero > 0:
+
    # Definindo o faorial
     fatorial = 1
-    # Laço para calcular o faorial
+   
+   # Laço para calcular o faorial
     for item in range(1, numero + 1):
         fatorial = fatorial * item
     print('O fatorial de {} é: {}'.format(numero, fatorial))
