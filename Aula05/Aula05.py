@@ -17,6 +17,7 @@ import math
 
 num_1 = int(input('Digite um numero: '))
 raiz_1 = math.sqrt(num_1)
+
 print('A raiz de {} é igual a {}'.format(num_1, raiz_1))
 print('A raiz de {} é igual a {}'.format(num_1, math.ceil(raiz_1)))  # arredondando numero pra cima
 print('A raiz de {} é igual a {}'.format(num_1, math.floor(raiz_1)))  # Arredondando pra baixo
