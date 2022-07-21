@@ -1,7 +1,7 @@
 # Usando o print, variaveis, strings e numeros
 
 # Variavel armazenando string
-nome = 'giliard'   
+nome = 'qualquer coisa'   
 
 #Variavel armazenando numeros
 idade = 34
