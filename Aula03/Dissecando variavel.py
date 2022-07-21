@@ -5,6 +5,7 @@ A saída será um boolean.
 """
 
 a = input('Digite algo: ')
+
 print('O tipo primitivo deste dado é', type(a))
 print('Possui espaços? ', a.isspace())
 print('Pode ser convertido para numero? ', a.isdigit())
