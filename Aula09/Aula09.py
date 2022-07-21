@@ -1,3 +1,7 @@
+"""
+Laço de repetição FOR(finito)
+"""
+
 # Imprimindo  "OI" 06 vezes (improdutivo)
 print('oi')
 print('oi')
