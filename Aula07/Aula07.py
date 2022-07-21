@@ -1,3 +1,7 @@
+"""
+Manipulação de Strings
+"""
+
 # EXEMPLO 01
 nome = str(input('Qual á o seu nome? '))
 
