@@ -1,3 +1,7 @@
+"""
+Laço de Repetição WHILE(infinito)
+"""
+
 # Criando um laço de repetição simples com o FOR
 for c in range(1, 10):
     print(c)
