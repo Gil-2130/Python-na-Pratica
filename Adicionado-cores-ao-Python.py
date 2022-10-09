@@ -6,7 +6,6 @@ Cores no terminal
 STYLE -> 0(NoNe),  1(BOLD),  4(Underline), 7(Negative)
 TEXT -> 30(White), 31(Red), 32(Green), 33(Yellow), 34(Blue), 35(Magente), 36(Ciano), 37(Gray)
 BACKGROUND -> 40(White), 41(Red), 42(Green), 43(Yellow), 44(Blue), 45(Magente), 46(Ciano), 47(Gray)
-
 """
 
 
