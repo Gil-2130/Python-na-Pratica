@@ -1,5 +1,4 @@
 """
-
 Cores no terminal
 \033[STYLE;TEXT;BACKGROUNDm
 \033[0;33;44m
