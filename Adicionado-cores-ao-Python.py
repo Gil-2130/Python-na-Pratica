@@ -30,3 +30,4 @@ cores = {'limpa': '\033[m',
          'pretoebranco': '\033[7;30m'}
 print('Olá, muito prazer em te conhecer, {}{}{}'.format(cores['amarelo'], nome, cores['limpa']))
 print('Olá, muito prazer em te conhecer, {}{}{}'.format(cores['pretoebranco'], nome, cores['limpa']))
+
