@@ -1,4 +1,5 @@
 """
+
 Nessa aula iremos trabalhar com tipos primitivos na prática;
 
 Em Python existem 04 tipos primitivos; int, float, bool e str.
