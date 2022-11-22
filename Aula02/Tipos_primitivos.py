@@ -3,7 +3,7 @@
   Nessa aula iremos trabalhar com tipos primitivos na prática;
 
   Em Python existem 04 tipos primitivos; int, float, bool e str.
-  int = numeros inteiros
+    int = numeros inteiros
 flat = numeros flutuantes(com casas decimais)
 bool = True ou False
 str = string, texto, numeros e simbolos dentro de aspas simples ou duplas
