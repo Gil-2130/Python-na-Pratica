@@ -4,7 +4,7 @@
 
   Em Python existem 04 tipos primitivos; int, float, bool e str.
     int = numeros inteiros
-float = numeros flutuantes(com casas decimais)
+    float = numeros flutuantes(com casas decimais)
 bool = True ou False
 str = string, texto, numeros e simbolos dentro de aspas simples ou duplas
 """
