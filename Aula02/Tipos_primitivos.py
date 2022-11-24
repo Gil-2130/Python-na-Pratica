@@ -5,7 +5,7 @@
     float = numeros flutuantes(com casas decimais)
     bool = True ou False
     str = string, texto, numeros e simbolos dentro de aspas simples ou duplas
-  
+ 
 """
 
 # vejamos o exemlpo abaixo:
