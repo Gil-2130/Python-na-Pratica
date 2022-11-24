@@ -19,7 +19,7 @@ print('A soma agora vale {}'.format(s))
 print('===========================')
 
 """
-Perceba que a saída acima foi bem diferente do que imáginavamos certo?
+  Perceba que a saída acima foi bem diferente do que imáginavamos certo?
 isso porque o input sempre irá receber strings como argumento.
 
 Então nosso trabalho é convereter essa saída em numero int ou float.
