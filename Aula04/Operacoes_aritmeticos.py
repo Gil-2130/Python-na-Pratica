@@ -1,8 +1,8 @@
 """
 
   Operações aritméticas;
-    (+) --> Adição
-  (-) --> Subtração
+    (+) --> Adição 
+    (-) --> Subtração
 (*) --> Multiplicação
 (/) --> Divisão
 (**) --> Exponenciação/potenciação ou pow(,)
