@@ -1,7 +1,7 @@
 """
 
   Operações aritméticas;
-(+) --> Adição
+  (+) --> Adição
 (-) --> Subtração
 (*) --> Multiplicação
 (/) --> Divisão
