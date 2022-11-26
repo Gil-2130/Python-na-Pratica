@@ -1,6 +1,6 @@
 """
 
-  Operações aritméticas
+  Operações aritméticas;
 (+) --> Adição
 (-) --> Subtração
 (*) --> Multiplicação
