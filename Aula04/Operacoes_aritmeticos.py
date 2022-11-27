@@ -4,7 +4,7 @@
     (+) --> Adição 
     (-) --> Subtração
     (*) --> Multiplicação
-(/) --> Divisão
+  (/) --> Divisão
 (**) --> Exponenciação/potenciação ou pow(,)
 (//) --> Divisão inteira
 (%) --> Resto da divisão/Módulo
