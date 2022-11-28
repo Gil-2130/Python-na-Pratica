@@ -6,7 +6,7 @@
     (*) --> Multiplicação
     (/) --> Divisão
     (**) --> Exponenciação/potenciação ou pow(,)
-  (//) --> Divisão inteira
+    (//) --> Divisão inteira
 (%) --> Resto da divisão/Módulo
 pow(n, (1/2)) --> Calculando a raiz quadrada
 
