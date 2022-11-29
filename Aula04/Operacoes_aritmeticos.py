@@ -6,7 +6,7 @@
     (/)   --> Divisão
     (**)  --> Exponenciação/potenciação ou pow(,)
     (//)  --> Divisão inteira
-    (%) --> Resto da divisão/Módulo
+    (%)   --> Resto da divisão/Módulo
   pow(n, (1/2)) --> Calculando a raiz quadrada
 
 1 --> A ordem de precedência sempre será: realizar as operações que estiverem entre (parenteses)
