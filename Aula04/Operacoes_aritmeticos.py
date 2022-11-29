@@ -2,7 +2,7 @@
   Operações aritméticas;
     (+)   --> Adição 
     (-)   --> Subtração
-    (*) --> Multiplicação
+    (*)   --> Multiplicação
     (/) --> Divisão
     (**) --> Exponenciação/potenciação ou pow(,)
     (//) --> Divisão inteira
