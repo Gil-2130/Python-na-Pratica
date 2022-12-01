@@ -79,7 +79,7 @@ print('=' * 20)
 print('Olá {:=^20}, seja bem vindo ao Python!!'.format(nome))
 
 
-""" Lendo dois numeros inteiros e formatando com varias operações """
+"""  Lendo dois numeros inteiros e formatando com varias operações """
 num1 = int(input('Digite um numero: '))
 num2 = int(input('Digite outro numero: '))
 
