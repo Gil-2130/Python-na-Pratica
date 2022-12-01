@@ -13,7 +13,7 @@ Operações aritméticas;
     2 --> Em seguida resolve-se a potência **
     3 --> logo após vem; *, /, // e %
     4 --> E por ultimo são + e -
- 
+
 """
 
 n1 = int(input('Digite um numero: '))
