@@ -1,5 +1,4 @@
 """
-
 Operações aritméticas;
     (+)   --> Adição 
     (-)   --> Subtração
