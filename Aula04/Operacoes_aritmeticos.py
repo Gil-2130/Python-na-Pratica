@@ -27,6 +27,7 @@ print('===============================')
 
 print('A multiplicação entre {} e {} é igual a {}'.format(n1, n2, mul))
 print('===============================')
+
 print('A divisão entre {} e {} é igual a {}'.format(n1, n2, div))
 print('===============================')
 print('A subtração entre {} e {} é igual a {}'.format(n1, n2, sub))
