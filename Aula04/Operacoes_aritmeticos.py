@@ -24,6 +24,7 @@ sub = n1 - n2
 
 print('A soma entre {} e {} é igual a {}'.format(n1, n2, adi))
 print('===============================')
+
 print('A multiplicação entre {} e {} é igual a {}'.format(n1, n2, mul))
 print('===============================')
 print('A divisão entre {} e {} é igual a {}'.format(n1, n2, div))
