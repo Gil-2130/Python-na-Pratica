@@ -7,7 +7,7 @@
   trunc => truncate, corta na virgula/ponto sem arredondar 5.8 -> 5
   pow => potência ou **
   sqrt => Raiz quadrada
-factorial =>
+  factorial =>
 
 obs; Ao importar math e desejarmos usar uma ou mais funções, é necessário usar; math.funçao desejada.
 Caso contrário, você pode importar apenas as funções desejadas usando o método FROM
