@@ -1,6 +1,6 @@
 """
   Importando modulos para calculos numericos (math)
-  sqrt => Raíz quadrada
+    sqrt => Raíz quadrada
   ceil => Arredondar pra cima 5.8 -> 6.0
   floor => Arredondar pra baixo 5.8 -> 5.0
   trunc => truncate, corta na virgula/ponto sem arredondar 5.8 -> 5
