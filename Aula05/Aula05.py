@@ -3,7 +3,7 @@
     sqrt => Raíz quadrada
     ceil => Arredondar pra cima 5.8 -> 6.0
     floor => Arredondar pra baixo 5.8 -> 5.0
-  trunc => truncate, corta na virgula/ponto sem arredondar 5.8 -> 5
+    trunc => truncate, corta na virgula/ponto sem arredondar 5.8 -> 5
   pow => potência ou **
   sqrt => Raiz quadrada
   factorial =>
