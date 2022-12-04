@@ -5,7 +5,7 @@
     floor => Arredondar pra baixo 5.8 -> 5.0
     trunc => truncate, corta na virgula/ponto sem arredondar 5.8 -> 5
     pow => potência ou **
- 
+
   factorial =>
 
 obs; Ao importar math e desejarmos usar uma ou mais funções, é necessário usar; math.funçao desejada.
