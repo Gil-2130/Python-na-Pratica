@@ -1,5 +1,4 @@
 """
-
   Importando modulos para calculos numericos (math)
   sqrt => Raíz quadrada
   ceil => Arredondar pra cima 5.8 -> 6.0
