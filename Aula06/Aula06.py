@@ -7,7 +7,7 @@ print(frase)
 print(frase[9])       # Buscando o indice 9
 print(frase[2:12])    # Iniciando de um indice até outro indice
 print(frase[9:21:2])  # Iniciando de um indice até outro indice e 'pulando' de 2 em 2.
-print(frase[:5])    # Fatiando do inicio até o indice especificado
+print(frase[:5])      # Fatiando do inicio até o indice especificado
 print(frase[5:])  # Iniciando de um indice e indo até onde a string/texto termina
 print(frase[5::2])  # Começa em um indice, vai até o final do texto mas pulando de 2 em 2 caracteres
 
