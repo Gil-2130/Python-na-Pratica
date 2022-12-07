@@ -33,6 +33,7 @@ print('A sua nota média foi {} pontos'.format(m))
 # Condicional se `m` for maior que 6(float)
 if m>= 6.0:
     print('Sua média foi boa! PARABENS!!')
+# Caso contrario
 else:
     print('Sua média foi baixa! Estude Mais!')
 
