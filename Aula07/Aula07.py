@@ -30,6 +30,7 @@ n2 = float(input('Digite a segunda nota: '))
 m = (n1 + n2) / 2
 print('A sua nota média foi {} pontos'.format(m))
 
+# Condicional se `m` for maior que 6(float)
 if m>= 6.0:
     print('Sua média foi boa! PARABENS!!')
 else:
