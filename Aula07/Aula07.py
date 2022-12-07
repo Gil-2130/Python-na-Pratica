@@ -1,6 +1,7 @@
 """
 
     Manipulação de Strings
+    
 """
 
 # EXEMPLO 01
