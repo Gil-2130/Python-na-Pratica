@@ -1,6 +1,6 @@
 """
 
-TRabalhando com Condicionais
+Trabalhando com Condicionais
 """
 
 # Obtendo o nome do usuário
