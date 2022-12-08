@@ -19,7 +19,8 @@ print('-=-'*20)
 # usei esse método para colocar o nome em maiusculo,
 # e atender a condição caso o usuario digite em minusculo.
 if nome == 'Eduardo'.upper():
-    print('Que nome bonito')
+   
+print('Que nome bonito')
 else:
     print('Seu nome é bem normal rsrs...')
 print(f'tenha um bom dia, {nome}')
