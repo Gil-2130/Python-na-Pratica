@@ -9,6 +9,7 @@ nome = str(input('Digite seu nome: ')).upper()
 
 # Condição simples (possui apenas um IF)
 if nome == 'Eduardo':
+    
     print('Que nome bonito')
 print('Tenha um bom dia, {}'.format(nome))
 print('-=-'*20)
