@@ -12,7 +12,7 @@ print('oi')
 print('oi')
 print('oi')
 
-# Separando os prints
+# Separacao dos prints
 print('{:=^50}'.format(' ESPAÇO ENTRE PRINTs '))
 
 # Imprimindo  "OI" 06 vezes usando estrutura de repetição
