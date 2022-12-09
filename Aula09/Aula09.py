@@ -1,5 +1,4 @@
 """
-
     Laço de repetição FOR(finito)
     
 """
