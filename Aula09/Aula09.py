@@ -29,7 +29,6 @@ for c in range(0, 11):
 print('{:=^50}'.format(' ESPAÇO ENTRE PRINTs '))
 
 
-
 # Laço de repetição invertido
 for c in range(10, 0, -1):  # laço invertido do 10 a 0 em ordem decrescente
     print(c)
