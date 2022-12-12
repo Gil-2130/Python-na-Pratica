@@ -7,7 +7,6 @@ for c in range(1, 10):
     print(c)
 print('FIM!!')
 
-
 # Criando um laço de repetição simples com WHILE
 c = 1
 while c < 10:
