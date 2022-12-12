@@ -1,5 +1,4 @@
 """
-
     Laço de Repetição WHILE(infinito)
 
 """
