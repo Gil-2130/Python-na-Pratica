@@ -1,6 +1,5 @@
 """
     Laço de Repetição WHILE(infinito)
-
 """
 
 # Criando um laço de repetição simples com o FOR
