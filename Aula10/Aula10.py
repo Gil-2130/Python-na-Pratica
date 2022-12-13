@@ -4,7 +4,7 @@
     
 """
 
-# Criando um laço de repetição simples com o FOR
+# Criando um laço de repetição simples com o FOR de 1 a 10
 for c in range(1, 10):
     print(c)
 print('FIM!!')
