@@ -1,7 +1,7 @@
 """
 
     Laço de Repetição WHILE(infinito enquanto uma condicao nao for atendida)
-   
+  
 """
 
 # Criando um laço de repetição simples com o FOR de 1 a 10
