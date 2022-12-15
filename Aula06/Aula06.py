@@ -16,7 +16,7 @@ print(f'A string contém {len(frase)} caracteres!')
 print('A string contém {} caracteres!'.format(len(frase)))
 
 
-# Contando quantos caracteres aparecem repetidamente dentro de uma frase
+# Contando quantos caracteres aparecem repetidamente dentro de uma frase.
 print(frase.count('o'))  # quantos caracteres aparecem na string(texto)
 print(frase.count('o', 0, 13))  # Quantos caracteres aparecem de um indice a outro
 print(frase.upper().count('O'))  # Utilizando dois métodos; coloque tudo em maiusculo e conte quantos 'Ós' tem
