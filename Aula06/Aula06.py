@@ -37,7 +37,7 @@ print(frase.replace('Curso', 'osruc'))  # onde tiver 'Curso', será substituido 
 # Capitalizando a frase (Coloca a primeira letra da frase em maiusculo)
 print(frase.capitalize())
 
-# colocando todas as letras em maiusculo
+# Colocando todas as letras em maiusculo
 print(frase.upper())
 
 # Colocando todas as letras da frase em minusculo
