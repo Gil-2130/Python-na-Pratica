@@ -57,7 +57,7 @@ frase_1 = '   coloquei   03   espaços   '
 # Verificando o tamanho da frase
 print(len(frase_1))  # 29 caracteres
 
-# removendo todos os espaços (Apenas do inicio e fim da frase)
+# Removendo todos os espaços (Apenas do inicio e fim da frase)
 print(len(frase_1.strip()))  # 23 caracteres
 
 # Viu só?
