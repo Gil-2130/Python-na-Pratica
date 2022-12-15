@@ -11,7 +11,7 @@ print(frase[5:])      # Iniciando de um indice e indo até onde a string/texto t
 print(frase[5::2])    # Começa em um indice, vai até o final do texto mas pulando de 2 em 2 caracteres
 
 
-# Obtendo o tamanho de uma string
+# Obtendo o tamanho de uma string(formatando de diferentes formas)
 print(f'A string contém {len(frase)} caracteres!')
 print('A string contém {} caracteres!'.format(len(frase)))
 
