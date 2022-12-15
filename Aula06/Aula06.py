@@ -31,7 +31,7 @@ print('Curso' in frase)  # Existe curso in frase? resposta booleana (lembre-se q
 ============================ TRNSFORMAÇÃO DE STRINGS===================================
 """
 
-# encontrando e substituindo caracteres dentro de uma string
+# Encontrando e substituindo caracteres dentro de uma string
 print(frase.replace('Curso', 'osruc'))  # onde tiver 'Curso', será substituido por outra sentença na saída.
 
 # Capitalizando a frase (Coloca a primeira letra da frase em maiusculo)
