@@ -2,7 +2,6 @@
 frase = 'Curso em video Python'
 print(frase)
 
-
 # Fatiamento
 print(frase[9])       # Buscando o indice 9
 print(frase[2:12])    # Iniciando de um indice até outro indice
