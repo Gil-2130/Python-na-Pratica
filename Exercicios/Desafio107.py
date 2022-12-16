@@ -7,3 +7,6 @@ Crie um módulo chamada moeda.py que tenha as funções incorporadas;
 
 Faça também um programa que importe esse módulo e use algumas dessas funções
 """
+
+def moeda(self):
+  
