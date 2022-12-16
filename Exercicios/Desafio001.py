@@ -1,5 +1,5 @@
 """
-  Exercício 01 ->
+    Exercício 01 ->
  Crie um Programa que escreva 'Olá Mundo' na tela
 """
 # Imprimindo a MSG na tela
