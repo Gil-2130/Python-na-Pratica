@@ -48,6 +48,7 @@ while True:
     if n == 100:
         break
     soma = soma + n
+    
 
 print(f'A soma vale {soma}')
 # Observe que a flag no "if" não foi somada. Essa é a forma correta de se interromper um laço
