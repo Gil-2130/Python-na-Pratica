@@ -14,7 +14,6 @@ print('FIM')
 #     cont = cont + 1
 # print('FIM')
 
-
 # Exemplo 3
 
 # Variavel que armazena o input
