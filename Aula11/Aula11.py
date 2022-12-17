@@ -22,7 +22,7 @@ print('FIM')
 # Variavel que armazena o input
 n = 0
 
-# Contador do input
+# Contador do input(qunantas vezes o usuario realiza uma acao)
 cont = 0
 while n < 15:
     n = int(input('Digite um número: '))
