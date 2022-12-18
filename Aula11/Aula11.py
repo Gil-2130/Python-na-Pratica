@@ -8,6 +8,7 @@ while cont <= 10:
     cont = cont + 1
 print('FIM')
 
+
 # Estrutura de repetição infinita (Cuidado ao executar o código abaixo pois o PC pode travar)
 # cont = 1
 # while True:
