@@ -1,6 +1,7 @@
 # Estrutura de repetição finita (Ela para quando a flag for falsa)
 cont = 1
 
+
 # Enquanto o contador for menor ou igual a 10
 while cont <= 10:
     print(cont, '-> ', end='')
