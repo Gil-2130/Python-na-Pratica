@@ -1,5 +1,4 @@
 """
-
     tupla = () -> representada com argumentos entre parenteses(não é necessário, mas é uma boa prática)
     lista = [] -> REpresentada por argumentos entre colchetes
     dicionário = {} -> Representada por elementos dentro de chaves
