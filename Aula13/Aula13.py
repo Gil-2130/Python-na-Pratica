@@ -96,6 +96,7 @@ b = a[:]
 
 # alterando algum elemento da lista b (apenas para verificar que esta é uma lista independente
 b[2] = 8
+
 # Imprimindo os resultados
 print(f'Lista A: {a}')
 print(f'Lista B: {b}')
