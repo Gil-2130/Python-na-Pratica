@@ -90,6 +90,7 @@ for c, v in enumerate(valores_1):
 
 # trabalhando com listas
 a = [2,4,6,8]
+
 # Realizando a cópia da lista criada
 b = a[:]
 # alterando algum elemento da lista b (apenas para verificar que esta é uma lista independente
