@@ -1,5 +1,5 @@
 """
-Trabalhando com Listas
+    Trabalhando com Listas
 lista = [] representada por uma variavel armazenando elementos dentro de colchetes
 """
 
