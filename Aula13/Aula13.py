@@ -84,6 +84,7 @@ for cont in range(0,5):
     valores_1.append(int(input('Digite um valor: ')))
 print(valores_1)
 
+# Imprimindo a lista
 for c, v in enumerate(valores_1):
     print(f'No indice {c}, está o valor {v}')
 
