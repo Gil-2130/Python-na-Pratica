@@ -34,6 +34,7 @@ print(lanche)
 # Método 1
 del lanche[2] # note que nesta posição, está o suco. o mesmo será apagado
 print(lanche)
+
 # Método 2 (este método remove o último elemento se não for explicitamente especificado)
 lanche.pop(2)
 print(lanche)
