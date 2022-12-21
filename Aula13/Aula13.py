@@ -38,6 +38,7 @@ print(lanche)
 # Método 2 (este método remove o último elemento se não for explicitamente especificado)
 lanche.pop(2)
 print(lanche)
+
 # Método 3 (em vez de indice, usa-se o nome do elemento)
 lanche.remove('macarrão')
 
