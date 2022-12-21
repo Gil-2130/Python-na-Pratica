@@ -30,6 +30,7 @@ lanche.insert(0, 'macarrão')
 print(lanche)
 
 # Excluindo elementos da lista (existem vários métodos)
+
 # Método 1
 del lanche[2] # note que nesta posição, está o suco. o mesmo será apagado
 print(lanche)
