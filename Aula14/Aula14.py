@@ -39,6 +39,7 @@ teste.append(40)
 
 # Criando uma lista galera
 galera = list()
+
 # Adicionando elementos da lista anterior de forma independente
 galera.append(teste[:])
 # Adicionando novos elementos
