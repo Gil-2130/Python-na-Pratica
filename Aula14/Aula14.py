@@ -24,6 +24,7 @@ print(pessoas)
 # criando uma lista aninhada (listas dentro de listas)
 pessoas_0 = [['Pedro', 25], ['Maria', 19], ['João', 32]]
 print(pessoas_0)
+
 # Imprimindo o indíce 0
 print(pessoas_0[0])
 # Imprimindo o índice 1 e o índice interno deste elemento
