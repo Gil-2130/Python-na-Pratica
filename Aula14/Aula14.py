@@ -27,6 +27,7 @@ print(pessoas_0)
 
 # Imprimindo o indíce 0
 print(pessoas_0[0])
+
 # Imprimindo o índice 1 e o índice interno deste elemento
 print(pessoas_0[1][1])
 
