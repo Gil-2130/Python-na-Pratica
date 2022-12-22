@@ -8,7 +8,7 @@ dados.append(2022)
 # Imprimindo a lista
 print(dados)
 
-# Imprimindo determinadas posições da lista
+# Imprimindo determinadas posições da lista(Por índice)
 print(dados[0])
 print(dados[1])
 
