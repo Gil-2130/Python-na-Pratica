@@ -1,7 +1,7 @@
 # Criando uma lista vazia
 dados = list()
 
-# Adicionando dados á lista
+# Adicionando dados á lista(na ultima posição)
 dados.append('BlueShift')
 dados.append(2022)
 
