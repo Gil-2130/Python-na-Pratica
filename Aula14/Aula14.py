@@ -15,6 +15,7 @@ print(dados[1])
 # Criando lista vazia e adicionado o fatiamento da lista anterior dentro dela(criando uma cópia)
 pessoas = list()
 pessoas.append(dados[:])  # sem estes parâmetros, as listas seriam interligadas, não é o que queremos.
+
 # Imprimindo nova lista
 print(pessoas)
 
