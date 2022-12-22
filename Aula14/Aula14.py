@@ -42,6 +42,7 @@ galera = list()
 
 # Adicionando elementos da lista anterior de forma independente
 galera.append(teste[:])
+
 # Adicionando novos elementos
 teste[0] = 'Maria'
 teste[1] = 22
