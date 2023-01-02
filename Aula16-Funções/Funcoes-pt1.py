@@ -1,4 +1,4 @@
-# Exemplo de criação de uma função simples
+# Exemplo de criação de uma função simples para imprimir linha
 def mostralinha():
     print('--------------------------------------------')
 
