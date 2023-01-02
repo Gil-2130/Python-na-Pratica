@@ -2,7 +2,6 @@
 def mostralinha():
     print('--------------------------------------------')
 
-
 # Fazendo um chamado á função...
 mostralinha()
 # Imprimindo uma msg qualquer
