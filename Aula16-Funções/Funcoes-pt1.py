@@ -20,7 +20,7 @@ def mensagem(msg):
     print(msg)  # Parâmetro
     print('===============================================')
 
-
+# Chamando a função
 mensagem('              SISTEMA de ALUNOS                  ')
 mensagem('         CADASTRO DE FUNCIONÁRIOS            ')
 
