@@ -5,6 +5,7 @@
 # formas de criar dicionários:
 dados_0 = dict()
 dados_1 = {}
+
 # Verificando o tipo
 print(type(dados_0))
 print(type(dados_1))
