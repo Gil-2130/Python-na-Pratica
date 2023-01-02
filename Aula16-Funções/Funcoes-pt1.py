@@ -4,6 +4,7 @@ def mostralinha():
 
 # Fazendo um chamado á função...
 mostralinha()
+
 # Imprimindo uma msg qualquer
 print('             SISTEMA DE ALUNOS           ')
 mostralinha()
