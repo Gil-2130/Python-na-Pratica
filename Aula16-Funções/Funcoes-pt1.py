@@ -26,7 +26,6 @@ mensagem('         CADASTRO DE FUNCIONÁRIOS            ')
 
 
 # =========================== PRÁTICA ===================================
-
 # Operações aritméticas básicas (SOMA)
 a = 4
 b = 5
