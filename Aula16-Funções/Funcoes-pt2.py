@@ -2,9 +2,9 @@
 print(input.__doc__)
 help(input)
 
-
 # Docstrings
 def contador(i, f, p):
+    
     # Para criar uma Dostring, apenas digite 03 aspas simples após a criação da função
     """
      Faz uma contagem e imprime na tela os resultados
