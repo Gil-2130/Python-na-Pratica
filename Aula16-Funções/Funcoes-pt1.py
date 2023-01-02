@@ -7,6 +7,7 @@ mostralinha()
 
 # Imprimindo uma msg qualquer
 print('             SISTEMA DE ALUNOS           ')
+
 mostralinha()
 print('         CADASTRO DE FUNCIONÁRIOS            ')
 
