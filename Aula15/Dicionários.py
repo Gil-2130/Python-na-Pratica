@@ -12,6 +12,7 @@ print(type(dados_1))
 
 # trabalhando com dicionários
 dados_0 = {'Nome': 'Pedro', 'Idade': 25}
+# Imprimindo os dados do dicionário
 print(dados_0['Nome'])
 print(dados_0['Idade'])
 
