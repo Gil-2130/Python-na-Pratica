@@ -41,7 +41,6 @@ for c in range(10, 0, -1):  # laço invertido do 10 a 0 em ordem decrescente
 print('{:=^50}'.format(' ESPAÇO ENTRE PRINTs '))
 
 
-
 # Laço de repetição pulando uma determinada casa de numeros
 for c in range(0, 11, 2):  # De 0 a 11 pulando de 2 em 2
     print(c)
